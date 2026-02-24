@@ -7,8 +7,7 @@ This website acts as my digital identity and professional profile for internship
 
 ## 🚀 Live Demo
 
-*(Add after deployment)*
-👉 https://your-live-link-here.vercel.app
+👉 [https://your-live-link-here.vercel.app](https://new-portfolio-nu-pink.vercel.app/)
 
 ---
 

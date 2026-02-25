@@ -5,6 +5,15 @@ import { motion } from 'framer-motion';
 const Projects = () => {
     const projects = [
         {
+            title: 'AI Plant Disease Detection',
+            desc: 'Deep learning system ensuring agricultural health through rapid leaf disease diagnosis and treatment recommendations.',
+            tags: ['Python', 'CNN', 'PyTorch'],
+            links: { demo: '#', github: '#' },
+            image: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?q=80&w=800&auto=format&fit=crop',
+            status: 'Completed',
+            showDemo: true
+        },
+        {
             title: 'Rural Bazaar',
             desc: 'Seamless farmer-to-customer platform facilitating direct sales of fresh produce.',
             tags: ['React', 'Node.js', 'MongoDB'],
@@ -13,15 +22,6 @@ const Projects = () => {
             status: 'In Progress',
             progress: 65,
             showDemo: false
-        },
-        {
-            title: 'AI Plant Disease Detection',
-            desc: 'Deep learning system ensuring agricultural health through rapid leaf disease diagnosis and treatment recommendations.',
-            tags: ['Python', 'CNN', 'PyTorch'],
-            links: { demo: '#', github: '#' },
-            image: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?q=80&w=800&auto=format&fit=crop',
-            status: 'Completed',
-            showDemo: true
         }
     ];
 

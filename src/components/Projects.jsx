@@ -14,15 +14,24 @@ const Projects = () => {
             showDemo: true
         },
         {
-            title: 'Rural Bazaar',
-            desc: 'Seamless farmer-to-customer platform facilitating direct sales of fresh produce.',
-            tags: ['React', 'Node.js', 'MongoDB'],
+            title: 'Smart Resume Analysis',
+            desc: 'AI-powered application that evaluates resumes against job descriptions, providing ATS scoring and feedback for improvement.',
+            tags: ['Python', 'NLP', 'Streamlit'],
             links: { demo: '#', github: '#' },
-            image: 'https://images.unsplash.com/photo-1500937386664-56d1dfef3854?q=80&w=800&auto=format&fit=crop',
-            status: 'In Progress',
-            progress: 65,
-            showDemo: false
-        }
+            image: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=800&auto=format&fit=crop',
+            status: 'Completed',
+            showDemo: true
+        },
+        /* {
+             title: 'Rural Bazaar',
+             desc: 'Seamless farmer-to-customer platform facilitating direct sales of fresh produce.',
+             tags: ['React', 'Node.js', 'MongoDB'],
+             links: { demo: '#', github: '#' },
+             image: 'https://images.unsplash.com/photo-1500937386664-56d1dfef3854?q=80&w=800&auto=format&fit=crop',
+             status: 'In Progress',
+             progress: 65,
+             showDemo: false
+         }*/
     ];
 
     return (

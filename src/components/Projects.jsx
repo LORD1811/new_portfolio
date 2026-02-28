@@ -8,7 +8,7 @@ const Projects = () => {
             title: 'AI Plant Disease Detection',
             desc: 'Deep learning system ensuring agricultural health through rapid leaf disease diagnosis and treatment recommendations.',
             tags: ['Python', 'CNN', 'PyTorch'],
-            links: { demo: '#', github: '#' },
+            links: { demo: '#', github: 'https://github.com/LORD1811/AgriCrop' },
             image: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?q=80&w=800&auto=format&fit=crop',
             status: 'Completed',
             showDemo: true
@@ -17,7 +17,7 @@ const Projects = () => {
             title: 'Smart Resume Analysis',
             desc: 'AI-powered application that evaluates resumes against job descriptions, providing ATS scoring and feedback for improvement.',
             tags: ['Python', 'NLP', 'Streamlit', 'Flask', 'NLP (spaCy/NLTK)', 'PyPDF2'],
-            links: { demo: '#', github: '#' },
+            links: { demo: 'https://smart-resume-analyzer-a5uhru1he-krishnas-projects-7d9f14ee.vercel.app/login', github: 'https://github.com/LORD1811/Smart-Resume-Analysis-' },
             image: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=800&auto=format&fit=crop',
             status: 'Completed',
             showDemo: true

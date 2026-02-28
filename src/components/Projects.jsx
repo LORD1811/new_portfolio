@@ -16,7 +16,7 @@ const Projects = () => {
         {
             title: 'Smart Resume Analysis',
             desc: 'AI-powered application that evaluates resumes against job descriptions, providing ATS scoring and feedback for improvement.',
-            tags: ['Python', 'NLP', 'Streamlit'],
+            tags: ['Python', 'NLP', 'Streamlit', 'Flask', 'NLP (spaCy/NLTK)', 'PyPDF2', 'HTML', 'CSS', 'JavaScript'],
             links: { demo: '#', github: '#' },
             image: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=800&auto=format&fit=crop',
             status: 'Completed',
